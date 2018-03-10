@@ -2,7 +2,7 @@
 
 ## Where to get 
 
-[http://bancuit.aliexpress.com](bancuit.aliexpress.com)
+[http://bancuit.aliexpress.com](http://bancuit.aliexpress.com)
 
 ## Installation
 
